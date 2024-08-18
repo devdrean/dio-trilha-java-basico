@@ -9,7 +9,7 @@ https://github.com/devdrean/dio-trilha-java-basico
 
 | Atributo  | Tipo     |
 | --------- | ---------| 
-| Numero    | Inteiro  |
+| Numero    | Int |
 | Agencia   | String   |
 | Nome Cliente | String    |
 | Saldo | Double |
