@@ -2,7 +2,7 @@
 https://github.com/devdrean/dio-trilha-java-basico
 
 #### Autor
-- [Andre Cruz](https://github.com/devdrean)
+- [André Cruz](https://github.com/devdrean)
 
 ## Sintaxe - Desafio
 ## Variaveis
