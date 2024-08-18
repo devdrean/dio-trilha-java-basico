@@ -6,7 +6,12 @@
 - [André Cruz](https://github.com/devdrean)
 
 ## Sintaxe - Desafio
-## Variaveis
+
+## Descrição do Projeto
+
+- Projeto Java que cria uma Conta de Banco solicitando os dados do Cliente.
+
+- Variáveis
 
 | Atributo  | Tipo     |
 | --------- | ---------| 
@@ -15,6 +20,7 @@
 | Nome Cliente | String    |
 | Saldo | Double |
 
-Projeto Java, que cria uma Conta de Banco solicitando os dados do Cliete
+- Saída no terminal 
 
-Olá [Nome Cliente], obrigado por criar uma conta em nosso banco, sua agência é [Agencia], conta [Numero] e seu saldo [Saldo] já está disponível para saque".*
+Olá [Nome Cliente], obrigado por criar uma conta em nosso banco, sua agência é [Agência], conta [Numero] e seu saldo [Saldo] já está disponível para saque".*
+
