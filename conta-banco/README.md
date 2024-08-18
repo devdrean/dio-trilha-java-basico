@@ -2,7 +2,7 @@
 https://github.com/devdrean/dio-trilha-java-basico
 
 #### Autor
-- [Andre_Cruz](https://github.com/devdrean)
+- [Andre Cruz](https://github.com/devdrean)
 
 ## Sintaxe - Desafio
 ## Variaveis
@@ -10,9 +10,9 @@ https://github.com/devdrean/dio-trilha-java-basico
 | Atributo  | Tipo     |
 | --------- | ---------| 
 | Numero    | Inteiro  |
-| Agencia   | Texto    |
-| Nome Cliente | Texto    |
-| Saldo | Decimal |237.48
+| Agencia   | String   |
+| Nome Cliente | String    |
+| Saldo | Double |
 
 Projeto Java, que cria uma Conta de Banco solicitando os dados do Cliete
 
