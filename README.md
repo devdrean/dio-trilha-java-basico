@@ -4,7 +4,7 @@
 
 #### Autor
 
-- [André Cruz](https://github.com/devdrean)
+- [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)[André Cruz](https://github.com/devdrean)
 
 ## Sintaxe - Desafio
 
